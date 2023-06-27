@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-const Footer = (props)=>{
+const Children = (props)=>{
 
     return (
         <div>
@@ -9,4 +9,4 @@ const Footer = (props)=>{
     )
 }
 
-export default Footer;
+export default Children;
